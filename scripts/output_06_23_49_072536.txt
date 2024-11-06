@@ -1,0 +1,4 @@
+hyp param:hiddenLayerSize=900
+hyp param:max_iteration=400
+Runtime Conda Env:environment_test
+Test Mean Squared Error:0.6463278170006848
