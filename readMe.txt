@@ -25,3 +25,9 @@ Step 6: Navigate to the script folder and select the Hw5_Gates script and open i
 Step 7: Visual studio will prompt you to select your python kernal, Click 'python environments' and select the name of the environment you made with the environment.yml file.
 Step 8: select run all (the initial imports will take a few minutes at first)
 
+USE:
+to update the following hyper parames for the MPRegressor model:
+- hidden layer size
+- max iteration
+
+update the values in the config.json
